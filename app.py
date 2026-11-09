@@ -33,7 +33,7 @@ DB_PATH = "cyberquest.db"
 st.markdown(
     """
     <style>
-    .main { background-color: #0b1220; }
+    .main { background-color: white; }
     [data-testid="stSidebar"] { background-color: #101a2c; }
     .hero {
         padding: 1.6rem;
